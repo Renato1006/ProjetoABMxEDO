@@ -11,6 +11,6 @@ Objetivo: Implementar modelos de doenças infecciosas em Equações Diferenciais
  O projeto encontra-se com o seu propósito alcançado. Onde conseguimos implementar as duas ferramentas neste caso, e conseguimos comparar as duas simulações.
 
  <h1>Tecnologias Utilizadas</h1>
- Linguagem: C, Shell Script
- Compilador: GCC 9.4.0
- Gnuplot: 5.2
+ <p>Linguagem: C, Shell Script</p>
+ <p>Compilador: GCC 9.4.0</p>
+ <p>Gnuplot: 5.2</p>
